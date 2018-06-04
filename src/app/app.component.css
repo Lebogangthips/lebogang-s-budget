@@ -1,0 +1,24 @@
+table, th, td {
+    border: 1px solid black;
+}
+ h2{
+     font-size: 300%;
+     text-align: center;
+     color: rgb(94, 86, 86);
+ }
+
+ table{
+     margin-left: 25%;
+ }
+
+ th{
+     font-size: 150%;
+     background-color: rgb(253, 151, 151);
+     color: white;
+ }
+
+ td{
+     font-size: 125%;
+     background-color: rgb(235, 198, 198);
+     color: rgb(94, 86, 86);
+ }
